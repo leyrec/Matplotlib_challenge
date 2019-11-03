@@ -1590,7 +1590,7 @@
     "# From the four drugs observed (Camopulin, Infubinol, Ketrapil, Placebo), \"Camopulin\" percentage rate of survival\n",
     "#is more than 80% while for the other Drugs this rate is bellow 40%.\n",
     "\n",
-    "#FINAL CONCLUSION: all 3 observations confirms that if we compare the 4 drugs, Camopulin is the one that has better\n",
+    "#FINAL CONCLUSION: all 3 observations confirms that if the 4 drugs are compared, Camopulin is the one that has better\n",
     "# results in order to reduces Tummor volumes, limit the Spread of Metastatic points, and have a better rate of \n",
     "#survival during the period of treatment."
    ]
